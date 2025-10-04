@@ -28,7 +28,7 @@
 ## 🤝 I’m Open To
 - Collaborating on **data, BI, or analytics projects**  
 - Learning from the **data & dev community**  
-- Networking with professionals in **analytics, data science, and software**
+- Networking with professionals in **analytics, data science**
 
 ## 📫 Let’s Connect!
 - 🔗 [LinkedIn – JH Shawn](https://www.linkedin.com/in/jh-shawn/)
